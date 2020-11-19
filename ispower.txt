@@ -1,0 +1,7 @@
+============= RESTART: C:\Users\sachi\Desktop\Python Tasks\power.py ============
+is_power(10, 2) returns:  False
+is_power(27, 3) returns:  True
+is_power(1, 1) returns:  True
+is_power(10, 1) returns:  True
+is_power(3, 3) returns:  True
+>>> 

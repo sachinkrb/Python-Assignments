@@ -1,0 +1,5 @@
+{"David": ["Web Dev",4000,5,"Basketball"],
+ "Ali": ["Junior Java Dev",4000,3,"Football"],
+ "Ram": ["Senior Designer",5000,3,"Basketball"],
+ "Zustra": ["Help-Desk",2000,5,"Football"],
+ "Kobe": ["Manager",5000,1,"BasketBall"]}
